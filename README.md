@@ -2,11 +2,11 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-brightgreen)](https://python.org)
 
-**One-line Tagline**：This is the repository for retinal iamges optic disc segmentation using segmentation_models_pytorch baesd on IDRID dataset
+**One-line Tagline**：This is the repository for retinal images optic disc segmentation using segmentation_models_pytorch baesd on IDRID dataset
 
 ## Introduction
 - ​**Problem Statement**​
-  Providing a repository for retinal i optic disc segmentation using segmentation_models_pytorch.
+  Providing a repository for retinal images optic disc segmentation using segmentation_models_pytorch.
   
 - ​**Key Features**​  
   ✅ function 1：free to choose backbone and encoder
