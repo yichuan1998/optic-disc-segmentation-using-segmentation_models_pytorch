@@ -18,7 +18,10 @@
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
 
 ## Getting Started
-Edit the config.py. 
+​**Training**
+Edit the config.py and run the od-seg.py
+​**Inference on single image**
+run the od-seg-infer.py
 
 ### Prerequisites（环境要求）
 ```bash
