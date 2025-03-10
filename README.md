@@ -13,18 +13,18 @@
   
   ✅ function 2：visualize metrics's history
   
-  ✅ function 3：
+  ✅ function 3：inference on single image
 
 - ​**Technology Stack**​
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
 
 ## Getting Started
-- ​**Training**
-Edit the config.py and run the od-seg.py
+### Training
+Edit the config.py and run the od-seg.py.
 
-​- **Inference on single image**
-run the od-seg-infer.py
+### Inference on single image
+run the od-seg-infer.py.
 
 ### Prerequisites（环境要求）
 ```bash
