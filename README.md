@@ -1,7 +1,6 @@
-# optic-disc-segmentation-using-segmentation_models_pytorch
-# Project Name 🚀
+# optic-disc-segmentation-using-segmentation_models_pytorch 🚀
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
-[![Python Version](https://img.shields.io/badge/Python-3.8%2B-brightgreen)](https://python.org)
+[![Python Version](https://img.shields.io/badge/Python-3.9%2B-brightgreen)](https://python.org)
 
 **One-line Tagline**：用一句话说明项目的核心价值（例如：A lightweight tool for XXX）
 
@@ -22,5 +21,5 @@
 ## Getting Started
 ### Prerequisites（环境要求）
 ```bash
-Python 3.8+  
-pip install -r requirements.txt
+Python 3.9+  
+pip install albumentations segmentation_models_pytorch tqdm scikit-learn scikit-image
