@@ -19,7 +19,7 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
 
-## Results
+## Dataset
 Download from: https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid
 
 ## Getting Started
