@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-brightgreen)](https://python.org)
 
-**One-line Tagline**：用一句话说明项目的核心价值（例如：A lightweight tool for XXX）
+**One-line Tagline**：This is the repository for retinal iamges optic disc segmentation using segmentation_models_pytorch baesd on IDRID dataset
 
 ## Introduction
 - ​**Problem Statement**​（问题背景）  
