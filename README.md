@@ -6,7 +6,7 @@
 
 ## Introduction
 - ​**Problem Statement**​
-  Providing a repository for retinal iamges optic disc segmentation using segmentation_models_pytorch.
+  Providing a repository for retinal i optic disc segmentation using segmentation_models_pytorch.
   
 - ​**Key Features**​  
   ✅ function 1：free to choose backbone and encoder
