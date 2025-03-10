@@ -30,7 +30,7 @@ run the od-seg-infer.py.
 visualize the metrics during trainging
 ![metrics](training_metrics.png)
 visualize the inference results, including mask image and overlay image
-![overlay](overlay.jog)
+![overlay](overlay.jpg)
 ![mask](mask.png)
 
 ### Prerequisites
