@@ -19,6 +19,9 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
 
+## Results
+Download from: https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid
+
 ## Getting Started
 ### Training
 Edit the config.py and run the od-seg.py.
@@ -35,5 +38,6 @@ visualize the inference results, including mask image and overlay image
 
 ### Prerequisites
 ```bash
-Python 3.9+  
+Python 3.9+
+# you also need to install torch and torchvision
 pip install albumentations segmentation_models_pytorch tqdm scikit-learn scikit-image
