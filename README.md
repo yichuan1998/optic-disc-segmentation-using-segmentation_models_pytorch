@@ -10,7 +10,9 @@
   
 - ​**Key Features**​  
   ✅ function 1：free to choose backbone and encoder
+  
   ✅ function 2：visualize metrics's history
+  
   ✅ function 3：
 
 - ​**Technology Stack**​
@@ -20,6 +22,7 @@
 ## Getting Started
 - ​**Training**
 Edit the config.py and run the od-seg.py
+
 ​- **Inference on single image**
 run the od-seg-infer.py
 
