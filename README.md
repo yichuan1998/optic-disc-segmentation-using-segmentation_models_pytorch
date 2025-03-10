@@ -26,7 +26,14 @@ Edit the config.py and run the od-seg.py.
 ### Inference on single image
 run the od-seg-infer.py.
 
-### Prerequisites（环境要求）
+## Results
+visualize the metrics during trainging
+![metrics](training_metrics.png)
+visualize the inference results, including mask image and overlay image
+![overlay](overlay.png)
+![mask](mask.png)
+
+### Prerequisites
 ```bash
 Python 3.9+  
 pip install albumentations segmentation_models_pytorch tqdm scikit-learn scikit-image
