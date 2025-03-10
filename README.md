@@ -1,24 +1,25 @@
 # optic-disc-segmentation-using-segmentation_models_pytorch 🚀
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-brightgreen)](https://python.org)
 
 **One-line Tagline**：This is the repository for retinal iamges optic disc segmentation using segmentation_models_pytorch baesd on IDRID dataset
 
 ## Introduction
-- ​**Problem Statement**​（问题背景）  
-  简要说明项目要解决的核心问题，例如：  
-  _"Existing solutions for XXX often struggle with..."_
+- ​**Problem Statement**​
+  Providing a repository for retinal iamges optic disc segmentation using segmentation_models_pytorch.
   
-- ​**Key Features**​（核心功能）  
-  ✅ 功能1：例如实时数据处理  
-  ✅ 功能2：例如跨平台兼容性  
-  ✅ 功能3：例如可视化分析界面
+- ​**Key Features**​  
+  ✅ function 1：free to choose backbone and encoder
+  ✅ function 2：visualize metrics's history
+  ✅ function 3：
 
-- ​**Technology Stack**​（技术栈）  
+- ​**Technology Stack**​
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
 
 ## Getting Started
+Edit the config.py. 
+
 ### Prerequisites（环境要求）
 ```bash
 Python 3.9+  
